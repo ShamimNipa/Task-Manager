@@ -213,7 +213,7 @@ This project helps practice:
 
 **YOUR NAME**
 
-- GitHub: https://github.com/YOUR-USERNAME
+- GitHub: https://github.com/ShamimNipa
 
 ## License
 
